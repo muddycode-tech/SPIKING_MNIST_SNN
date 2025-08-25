@@ -86,5 +86,5 @@ pip install torch torchvision snntorch matplotlib
 
 ---
 
-👨‍💻 Author: [Your Name](https://github.com/your-username)  
+👨‍💻 Author: [ADITYA RAJ](https://github.com/muddycode-tech)  
 ⭐ If you like this project, don’t forget to star the repo!
